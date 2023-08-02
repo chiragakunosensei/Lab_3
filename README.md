@@ -362,32 +362,6 @@ Be sure to include the following information:
 5.  A choropleth map, using a sensible data classification of your
     choice, that shows the percentage of Hispanics in each state.
 
-The **Introduction** section should state the research objective.
-
-The **Data and Methods** section should state the data sets used in the
-analysis, from where those data were acquired, the GIS operations
-employed, and the mapping techniques employed (i.e. state and justify
-why you chose specific mapping options, such as the type of map, color
-scheme, the particular data classification for your choropleth map, and
-so on).
-
-The **Results** section should state the results, i.e. a description of
-the spatial distribution of Hispanics in the U.S. – where in the U.S. do
-Hispanics tend to concentrate and where are there few Hispanics? Be sure
-to include the five pieces of information listed directly above. The two
-maps should be cited in the text here (e.g. Figure 1, Figure 2).
-
-The **Discussion** section should interpret your results by briefly
-interpreting why Hispanics may be concentrated in particular states and
-regions of the U.S. State the limitations of the analysis (e.g. looking
-at the state level may not reveal within-state variation in Hispanic
-population), and how this analysis might be improved (e.g. by examining
-county level data).
-
-The **Figures and Tables** section should contain the proportional
-symbol/dot density and choropleth maps, each on a separate page and with
-a caption. The maps should be cited in the text.
-
 ## Getting Started
 
 All the data and operations you need to complete this assignment are
